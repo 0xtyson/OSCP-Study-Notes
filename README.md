@@ -1,1 +1,3 @@
-# OSCP-Study-Notes
+# OSCP Study Notes
+
+Notes to organize OSCP studies
